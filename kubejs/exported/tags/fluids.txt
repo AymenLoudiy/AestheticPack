@@ -1,0 +1,291 @@
+To refresh this file, delete it and run /reload command again! Last updated: Apr 24, 2023, 9:46:54 PM
+
+#forge:oxygen
+- mekanism:oxygen
+- mekanism:flowing_oxygen
+
+#forge:wax
+- cyclic:wax?
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- cyclic:biomass
+- cyclic:biomass_flowing
+- cyclic:honey
+- cyclic:honey_flowing
+- cyclic:xpjuice
+- cyclic:xpjuice_flowing
+- create:flowing_honey
+- create:honey
+- create:flowing_chocolate
+- create:chocolate
+- mahoutsukai:murky_still
+- mahoutsukai:murky_flow
+- createaddition:flowing_seed_oil
+- createaddition:seed_oil
+
+#forge:milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#forge:uranium_hexafluoride
+- mekanism:uranium_hexafluoride
+- mekanism:flowing_uranium_hexafluoride
+
+#forge:pink_slime
+- industrialforegoing:pink_slime
+
+#forge:biomass
+- cyclic:biomass
+
+#forge:molten_fiery
+- #twilightforest:molten_fiery?
+
+#forge:sulfur_dioxide
+- mekanism:sulfur_dioxide
+- mekanism:flowing_sulfur_dioxide
+
+#forge:hydrogen
+- mekanism:hydrogen
+- mekanism:flowing_hydrogen
+
+#create:bottomless/deny
+
+#forge:fusion_fuel
+- mekanismgenerators:fusion_fuel
+- mekanismgenerators:flowing_fusion_fuel
+
+#forge:xpjuice
+- mob_grinding_utils:fluid_xp
+
+#forge:sewage
+- industrialforegoing:sewage
+
+#create:bottomless/allow
+- minecraft:water
+- minecraft:lava
+
+#forge:superheated_sodium
+- mekanism:superheated_sodium
+- mekanism:flowing_superheated_sodium
+
+#forge:steam
+- mekanism:steam
+- mekanism:flowing_steam
+
+#forge:experience
+- industrialforegoing:essence
+- sophisticatedcore:xp_still
+- cofh_core:experience
+- mob_grinding_utils:fluid_xp
+- pneumaticcraft:memory_essence?
+- cofh_core:experience?
+- cyclic:xpjuice
+- reliquary:xp_juice_still
+
+#forge:slime
+- cyclic:slime
+
+#forge:glowstone
+- thermal:glowstone
+
+#forge:lithium
+- mekanism:lithium
+- mekanism:flowing_lithium
+
+#twilightforest:molten_fiery
+- twilightforest:molten_fiery?
+- twilightforest:flowing_molten_fiery?
+
+#forge:magma
+- cyclic:magma
+
+#twilightforest:fiery_essence
+- twilightforest:fiery_essence?
+- twilightforest:flowing_fiery_essence?
+
+#tconstruct:spilling/metal/cheap
+- #forge:molten_fiery
+- #twilightforest:molten_knightmetal
+
+#forge:bioethanol
+- mekanismgenerators:bioethanol
+- mekanismgenerators:flowing_bioethanol
+
+#forge:creosote
+- thermal:creosote
+
+#forge:sludge
+- industrialforegoing:sludge
+
+#forge:heavy_water
+- mekanism:heavy_water
+- mekanism:flowing_heavy_water
+
+#forge:molten_twinite
+- thermal_extra:twinite
+
+#forge:crude_oil
+- thermal:crude_oil
+
+#forge:redstone
+- thermal:redstone
+
+#forge:tritium
+- mekanismgenerators:tritium
+- mekanismgenerators:flowing_tritium
+
+#tconstruct:tooltips/metal
+- #forge:molten_fiery
+- #forge:molten_knightmetal
+
+#twilightforest:molten_knightmetal
+- twilightforest:molten_knightmetal?
+- twilightforest:flowing_molten_knightmetal?
+
+#forge:biofuel
+- industrialforegoing:biofuel
+- createaddition:flowing_bioethanol
+- createaddition:bioethanol
+
+#twilightforest:fire_jet_fuel
+- #minecraft:lava
+
+#forge:plantoil
+- createaddition:flowing_seed_oil
+- createaddition:seed_oil
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#forge:ethene
+- mekanism:ethene
+- mekanism:flowing_ethene
+
+#forge:uranium_oxide
+- mekanism:uranium_oxide
+- mekanism:flowing_uranium_oxide
+
+#forge:meat
+- industrialforegoing:meat
+
+#forge:chocolate
+- create:flowing_chocolate
+- create:chocolate
+
+#forge:chlorine
+- mekanism:chlorine
+- mekanism:flowing_chlorine
+
+#forge:molten_shellite
+- thermal_extra:shellite
+
+#forge:sodium
+- mekanism:sodium
+- mekanism:flowing_sodium
+
+#forge:potion
+- cofh_core:potion
+
+#forge:molten_dragonsteel
+- thermal_extra:dragonsteel
+
+#forge:sulfur_trioxide
+- mekanism:sulfur_trioxide
+- mekanism:flowing_sulfur_trioxide
+
+#forge:sulfuric_acid
+- mekanism:sulfuric_acid
+- mekanism:flowing_sulfuric_acid
+
+#forge:ender
+- thermal:ender
+
+#forge:hydrogen_chloride
+- mekanism:hydrogen_chloride
+- mekanism:flowing_hydrogen_chloride
+
+#forge:life
+- bloodmagic:life_essence_fluid
+- bloodmagic:life_essence_fluid_flowing
+
+#forge:tea
+- create:flowing_tea
+- create:tea
+
+#forge:molten_knightmetal
+- #twilightforest:molten_knightmetal?
+
+#forge:deuterium
+- mekanismgenerators:deuterium
+- mekanismgenerators:flowing_deuterium
+
+#forge:molten_soul_infused
+- thermal_extra:soul_infused
+
+#forge:hydrofluoric_acid
+- mekanism:hydrofluoric_acid
+- mekanism:flowing_hydrofluoric_acid
+
+#forge:brine
+- mekanism:brine
+- mekanism:flowing_brine
+
+#forge:latex
+- industrialforegoing:latex
+- thermal:latex
+
+#forge:honey
+- cofh_core:honey
+- inspirations:honey?
+- cyclic:honey
+- create:flowing_honey
+- create:honey
+
+#create:no_infinite_draining
+- mekanismgenerators:bioethanol
+- mekanismgenerators:flowing_bioethanol
+- mekanismgenerators:deuterium
+- mekanismgenerators:flowing_deuterium
+- mekanismgenerators:fusion_fuel
+- mekanismgenerators:flowing_fusion_fuel
+- mekanismgenerators:tritium
+- mekanismgenerators:flowing_tritium
+- mekanism:hydrogen
+- mekanism:flowing_hydrogen
+- mekanism:oxygen
+- mekanism:flowing_oxygen
+- mekanism:chlorine
+- mekanism:flowing_chlorine
+- mekanism:sulfur_dioxide
+- mekanism:flowing_sulfur_dioxide
+- mekanism:sulfur_trioxide
+- mekanism:flowing_sulfur_trioxide
+- mekanism:sulfuric_acid
+- mekanism:flowing_sulfuric_acid
+- mekanism:hydrogen_chloride
+- mekanism:flowing_hydrogen_chloride
+- mekanism:hydrofluoric_acid
+- mekanism:flowing_hydrofluoric_acid
+- mekanism:uranium_oxide
+- mekanism:flowing_uranium_oxide
+- mekanism:uranium_hexafluoride
+- mekanism:flowing_uranium_hexafluoride
+- mekanism:ethene
+- mekanism:flowing_ethene
+- mekanism:sodium
+- mekanism:flowing_sodium
+- mekanism:superheated_sodium
+- mekanism:flowing_superheated_sodium
+- mekanism:brine
+- mekanism:flowing_brine
+- mekanism:lithium
+- mekanism:flowing_lithium
+- mekanism:steam
+- mekanism:flowing_steam
+- mekanism:heavy_water
+- mekanism:flowing_heavy_water
+- mekanism:nutritional_paste
+- mekanism:flowing_nutritional_paste

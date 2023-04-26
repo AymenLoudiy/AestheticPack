@@ -1,0 +1,5 @@
+cost_per_level = 11
+max_levels = 5
+#Bonus damage added per level as %
+bonus_damage_per_level = 20.0
+

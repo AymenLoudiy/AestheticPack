@@ -1,0 +1,9 @@
+
+#Zoom options.
+[zoom]
+	#Zoomed in FOV value.
+	#Range: 1.0 ~ 90.0
+	zoomfov = 5.0
+	#Smooth camera movement while zoomed
+	zoomsmoothcam = true
+

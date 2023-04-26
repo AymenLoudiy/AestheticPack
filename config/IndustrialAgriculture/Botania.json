@@ -1,0 +1,12 @@
+{
+  "tierMap": {
+    "livingrock": "TWO",
+    "livingwood": "TWO",
+    "gaia_spirit": "FIVE"
+  },
+  "cruxMap": {
+    "livingrock": "",
+    "livingwood": "",
+    "gaia_spirit": ""
+  }
+}

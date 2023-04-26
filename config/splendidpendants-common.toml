@@ -1,0 +1,56 @@
+
+["Splendid Pendants - Common Config: "]
+
+	["Splendid Pendants - Common Config: "."MISC: "]
+		#Whether to enable Curios compat.
+		enable_curios = true
+
+	["Splendid Pendants - Common Config: "."Atlantic Pendant Stats: "]
+		#Boosted swim speed of the atlantic pendant.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		atlantic_swim_speed = 3.0
+		#Amplifier for the conduit power effect of the atlantic pendant (0 to disable).
+		#Range: > 0
+		atlantic_conduit_power_amplifier = 2
+		#Duration for the conduit power effect of the atlantic pendant (in ticks, there are 20 in a second) (0 to disable).
+		#Range: > 0
+		atlantic_conduit_power_duration = 40
+
+	["Splendid Pendants - Common Config: "."Holding Pendant Stats: "]
+		#Reach distance buff value with the holding pendant (0 to disable).
+		#Range: 0.0 ~ 1.7976931348623157E308
+		holding_reach_distance_speed = 7.0
+
+	["Splendid Pendants - Common Config: "."Knighthood Pendant Stats: "]
+		#Armor toughness value of the knighthood pendant (0 to disable).
+		#Range: 0.0 ~ 1.7976931348623157E308
+		knighthood_armor_toughness = 40.0
+		#Knock-back boost value of the knighthood pendant (when attacking) (0 to disable).
+		#Range: 0.0 ~ 1.7976931348623157E308
+		knighthood_knock_back_boost = 0.0
+		#Damage of the knighthood pendant's critical attack (0 to disable).
+		#Range: 0.0 ~ 1.7976931348623157E308
+		knighthood_critical_damage = 20.0
+		#Extra health from the knighthood pendant (0 to disable).
+		#Range: 0.0 ~ 1.7976931348623157E308
+		knighthood_extra_health = 40.0
+		#Knock-back resistance value of the knighthood pendant (0 to disable).
+		#Range: 0.0 ~ 1.7976931348623157E308
+		knighthood_knock_back_resistance = 10.0
+		#How long to render the knighthood pendant's armor model upon activation (in ticks, there are 20 in a second) (0 to disable).
+		#Range: > 0
+		render_knighthood_ticks = 60
+		#Armor value of the knighthood pendant (0 to disable).
+		#Range: 0.0 ~ 1.7976931348623157E308
+		knighthood_armor = 80.0
+		#Damage boost of the knighthood pendant.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		knighthood_damage_boost = 20.0
+
+	["Splendid Pendants - Common Config: "."Holy Pendant Stats: "]
+		#Speed boost value for flight with the holy pendant (while sprinting) (0 to disable).
+		#Range: 0.0 ~ 1.7976931348623157E308
+		holy_flight_speed = 16.0
+		#Whether to enable noclip during flight while sprinting.
+		holy_enable_noclip = true
+
